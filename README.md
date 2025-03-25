@@ -1,13 +1,11 @@
-# Hi there! I'm [Your Name] 👋
+# Hi there! I'm [fvme] 👋
 
 ## 🚀 About Me
-[Short introduction about yourself, your interests, and your coding journey]
+[Hello world *]
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Php](https://img.shields.io/badge/-Python-05122A?style=flat&logo=php)
 <!-- Add more technologies you use -->
 
 ## 📊 My GitHub Stats
