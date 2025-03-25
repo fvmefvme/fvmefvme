@@ -24,9 +24,5 @@
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
-</div>
-
 ## 👀 Visitors
 ![Visitor Count](https://profile-counter.glitch.me/fvmefvme/count.svg)
