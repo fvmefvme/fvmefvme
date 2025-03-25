@@ -5,7 +5,7 @@
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Php](https://img.shields.io/badge/-Python-05122A?style=flat&logo=php)
+![Php](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 <!-- Add more technologies you use -->
 
 ## 📊 My GitHub Stats
