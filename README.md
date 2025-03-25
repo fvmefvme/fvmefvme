@@ -15,17 +15,12 @@
 </div>
 
 ## 🔥 Featured Projects
-- 🌟 [Project Name 1](#) - Short description
-- 🚀 [Project Name 2](#) - Short description
-- 💡 [Project Name 3](#) - Short description
+- 🌟 
+- 🚀 
+- 💡 
 
 ## 🏆 Achievements
 <!-- Add your GitHub achievements, badges, etc. -->
-
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://linkedin.com/in/[YourUsername])
-[![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/[YourUsername])
-[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/[YourUsername])
 
 ---
 
@@ -34,4 +29,4 @@
 </div>
 
 ## 👀 Visitors
-![Visitor Count](https://profile-counter.glitch.me/[YourUsername]/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/fvmefvme/count.svg)
